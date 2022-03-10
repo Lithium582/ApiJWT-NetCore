@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "4q1buiFH7N3z/WniCUYEL8916T6fey813Khm12N85uw=",
+  "Source": "JsonWebTokensAPI",
+  "BasePath": "_content/JsonWebTokensAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
